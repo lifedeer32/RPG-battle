@@ -1,0 +1,28 @@
+C:\Users\241080\OneDrive - wqeic.ac.uk\A-Level Computer Science\Programming\RPG battle game\game1\obj\Debug\net8.0\game1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\241080\OneDrive - wqeic.ac.uk\A-Level Computer Science\Programming\RPG battle game\game1\obj\Debug\net8.0\game1.AssemblyInfoInputs.cache
+C:\Users\241080\OneDrive - wqeic.ac.uk\A-Level Computer Science\Programming\RPG battle game\game1\obj\Debug\net8.0\game1.AssemblyInfo.cs
+C:\Users\241080\OneDrive - wqeic.ac.uk\A-Level Computer Science\Programming\RPG battle game\game1\obj\Debug\net8.0\game1.csproj.CoreCompileInputs.cache
+C:\Users\241080\OneDrive - wqeic.ac.uk\A-Level Computer Science\Programming\RPG battle game\game1\bin\Debug\net8.0\game1.exe
+C:\Users\241080\OneDrive - wqeic.ac.uk\A-Level Computer Science\Programming\RPG battle game\game1\bin\Debug\net8.0\game1.deps.json
+C:\Users\241080\OneDrive - wqeic.ac.uk\A-Level Computer Science\Programming\RPG battle game\game1\bin\Debug\net8.0\game1.runtimeconfig.json
+C:\Users\241080\OneDrive - wqeic.ac.uk\A-Level Computer Science\Programming\RPG battle game\game1\bin\Debug\net8.0\game1.dll
+C:\Users\241080\OneDrive - wqeic.ac.uk\A-Level Computer Science\Programming\RPG battle game\game1\bin\Debug\net8.0\game1.pdb
+C:\Users\241080\OneDrive - wqeic.ac.uk\A-Level Computer Science\Programming\RPG battle game\game1\obj\Debug\net8.0\game1.dll
+C:\Users\241080\OneDrive - wqeic.ac.uk\A-Level Computer Science\Programming\RPG battle game\game1\obj\Debug\net8.0\refint\game1.dll
+C:\Users\241080\OneDrive - wqeic.ac.uk\A-Level Computer Science\Programming\RPG battle game\game1\obj\Debug\net8.0\game1.pdb
+C:\Users\241080\OneDrive - wqeic.ac.uk\A-Level Computer Science\Programming\RPG battle game\game1\obj\Debug\net8.0\game1.genruntimeconfig.cache
+C:\Users\241080\OneDrive - wqeic.ac.uk\A-Level Computer Science\Programming\RPG battle game\game1\obj\Debug\net8.0\ref\game1.dll
+C:\Users\rober\Desktop\RPG battle game\game1\bin\Debug\net8.0\game1.exe
+C:\Users\rober\Desktop\RPG battle game\game1\bin\Debug\net8.0\game1.deps.json
+C:\Users\rober\Desktop\RPG battle game\game1\bin\Debug\net8.0\game1.runtimeconfig.json
+C:\Users\rober\Desktop\RPG battle game\game1\bin\Debug\net8.0\game1.dll
+C:\Users\rober\Desktop\RPG battle game\game1\bin\Debug\net8.0\game1.pdb
+C:\Users\rober\Desktop\RPG battle game\game1\obj\Debug\net8.0\game1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Desktop\RPG battle game\game1\obj\Debug\net8.0\game1.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\RPG battle game\game1\obj\Debug\net8.0\game1.AssemblyInfo.cs
+C:\Users\rober\Desktop\RPG battle game\game1\obj\Debug\net8.0\game1.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\RPG battle game\game1\obj\Debug\net8.0\game1.dll
+C:\Users\rober\Desktop\RPG battle game\game1\obj\Debug\net8.0\refint\game1.dll
+C:\Users\rober\Desktop\RPG battle game\game1\obj\Debug\net8.0\game1.pdb
+C:\Users\rober\Desktop\RPG battle game\game1\obj\Debug\net8.0\game1.genruntimeconfig.cache
+C:\Users\rober\Desktop\RPG battle game\game1\obj\Debug\net8.0\ref\game1.dll
